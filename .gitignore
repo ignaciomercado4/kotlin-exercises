@@ -1,0 +1,15 @@
+# Ignorar archivos generados por IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar compilados
+out/
+
+# Ignorar archivos de Kotlin compilados
+*.class
+*.jar
+*.kotlin_module
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
